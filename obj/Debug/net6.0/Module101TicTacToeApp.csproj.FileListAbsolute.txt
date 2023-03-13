@@ -1,0 +1,67 @@
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\appsettings.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.staticwebassets.runtime.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.exe
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.deps.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.runtimeconfig.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.pdb
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.AssemblyReference.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.AssemblyInfo.cs
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.RazorAssemblyInfo.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.RazorAssemblyInfo.cs
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\bundle\Module101TicTacToeApp.styles.css
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\projectbundle\Module101TicTacToeApp.bundle.scp.css
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\refint\Module101TicTacToeApp.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.pdb
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.genruntimeconfig.cache
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\ref\Module101TicTacToeApp.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\neel.patel\Documents\Study\Sem 4\Dotnet\Assignment 2\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.CopyComplete
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\appsettings.Development.json
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\appsettings.json
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.staticwebassets.runtime.json
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.exe
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.deps.json
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.runtimeconfig.json
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Module101TicTacToeApp.pdb
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.AssemblyReference.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.AssemblyInfoInputs.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.AssemblyInfo.cs
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.CoreCompileInputs.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.MvcApplicationPartsAssemblyInfo.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.RazorAssemblyInfo.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.RazorAssemblyInfo.cs
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets\msbuild.Module101TicTacToeApp.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Module101TicTacToeApp.props
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Module101TicTacToeApp.props
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Module101TicTacToeApp.props
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets.pack.json
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets.build.json
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\staticwebassets.development.json
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\bundle\Module101TicTacToeApp.styles.css
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\scopedcss\projectbundle\Module101TicTacToeApp.bundle.scp.css
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.csproj.CopyComplete
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\refint\Module101TicTacToeApp.dll
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.pdb
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\Module101TicTacToeApp.genruntimeconfig.cache
+S:\Sem-4\.Net\Module101TicTacToeApp\obj\Debug\net6.0\ref\Module101TicTacToeApp.dll

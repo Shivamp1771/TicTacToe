@@ -1,0 +1,54 @@
+﻿@model TicTacToe
+@{
+    ViewData["Title"] = "Tic tac toe";
+}
+
+<div class="container">
+    <header class="mt-3 p-5 bg-info text-center mt-0 text-white rounded">
+        <div class="mt-3 d-flex justify-content-center">
+            <h1 class="mx-2"><span class="fas fa-money-bill-alt" /></h1>
+            <h1>@ViewBag.Title</h1>
+        </div>
+    </header>
+    <main>
+
+        @{
+            if (Model.result != null && Model.result != "")
+            {
+                <h2 class="mt-1 p-2 bg-success text-center mt-0 text-white rounded">@Model.result</h2>
+                <div class="d-flex justify-content-center">
+                    <a asp-action="Reset" asp-route-id="reset" class="text-center">New Game</a>
+                </div>
+            }
+            else
+            {
+                <h2 class="mt-1 p-2 text-center mt-0">@Model.currentTurnLabel</h2>
+            }
+        }
+
+        <form asp-action="Index" method="post" class="d-flex flex-column align-items-center">
+            @{
+                int i = 0;
+            }
+            <div class="row mt-1" style="width:330px">
+
+                @foreach (var block in Model.blocks)
+                {
+                    string currentValue = @i + "-" + @Model.currentTurn;
+                    <div class="col-4 my-1">
+                        @if (block == "X" || block == "O" || Model.result != null)
+                        {
+                            <button style="width:100px; height:100px" class="btn btn-outline-dark" disabled>@block</button>
+                        }
+                        else
+                        {
+                            <button asp-route-id="@currentValue" style="width:100px; height:100px" class="btn btn-outline-dark">@block</button>
+                        }
+
+                    </div>
+                    i++;
+                }
+            </div>
+        </form>
+    </main>
+</div>
